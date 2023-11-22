@@ -1,5 +1,5 @@
 ### Hey there! 👋
-- 🪷 Work at [Evolya](https://discord.gg/hsfsDnRFz9)
+- 🪷 Work at None
 - 📫 16 year old 
 - 🇫🇷 I live in France
 
@@ -8,12 +8,12 @@
 
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=js,html,css,java,nextjs,react,powershell,tailwind,docker&theme=dark)](https://github.com/hellokenzo/)
+  [![proglang](https://skillicons.dev/icons?i=js,html,css,java,nextjs,react,powershell,tailwind&theme=dark)](https://github.com/hellokenzo/)
 
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,discord&theme=dark)](https://github.com/hellokenzo)
+  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,docker,kuberneetes,discord&theme=dark)](https://github.com/hellokenzo)
 
   
 ## 📦 Databases:
