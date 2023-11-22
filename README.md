@@ -13,7 +13,7 @@
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,docker,kuberneetes,discord&theme=dark)](https://github.com/hellokenzo)
+  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,docker,kubernetes,discord&theme=dark)](https://github.com/hellokenzo)
 
   
 ## 📦 Databases:
