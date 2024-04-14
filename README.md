@@ -1,5 +1,5 @@
 ### Hey there! 👋
-- 🪷 Work at None
+- 🪷 Work at Seventy Studio & Faster Project
 - 📫 16 year old 
 - 🇫🇷 I live in France
 
