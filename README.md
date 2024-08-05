@@ -1,5 +1,5 @@
 ### Hey there! 👋
-- 🪷 Work at Seventy Studios
+- 📚 Fullstack developper
 - 📫 16 year old 
 - 🇫🇷 I live in France
 
