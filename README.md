@@ -1,7 +1,7 @@
 ### Hey there! 👋
-- 📚 Fullstack developper
-- 📫 16 year old 
-- 🇫🇷 I live in France
+- 📚 French Developper
+- 📫 16 year old
+- 💻 Making IllusiveClub, an french clothing brand focus on internet.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellokenzo&label=Profile%20views&color=0e75b6&style=flat" alt="hellokenzo" /> 
 
